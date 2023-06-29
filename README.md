@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi. My name is Jack, otherwise known as @HydraJ1 on GitHub.
 
-<!--
-**HydraJ1/HydraJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love computer science, and I love learning tons of new things to help me with programming. I want to explore lots of fields to hopefully know what I want to do in the future with jobs and fun projects. I like many areas and their different aspects, like back-end, front-end, games, UI, and more. Suggest new ideas if you wish.
 
-Here are some ideas to get you started:
+SKILLS
+=
+- Python/Pygame
+- Basic HTML/CSS
+- Fast Learner
+- SOCIAL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LEARNING
+=
+- Git/GitHub
+- Unity (?)
+
+Feel free to contact me in one of my upcoming projects if you have any questions, concerns, advice, emotional outbursts, etc. =)
